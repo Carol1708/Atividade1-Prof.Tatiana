@@ -14,7 +14,7 @@ public class Funcionarios {
     }
 
     public void demitirFuncionario(){
-        System.out.println("A funcionária " + getNome() + " será demitida.");
+        System.out.println("A funcionária " + getNome() + " foi demitida e agora sua situação na empresa é: Inativo");
     }
 
     public void trocarCargoFuncionario(){
